@@ -6,6 +6,5 @@ The virtual machines will be created in VirtualBox by using the Windows Server 2
 
 The network diagram was made using draw.io
 
-![Active-Directory-Home-Lab-Diagram drawio copy](https://github.com/user-attachments/assets/bf126043-6cc3-418e-b901-7166a292a082)
-
+![Active-Directory-Home-Lab-Diagram drawio copy](https://github.com/user-attachments/assets/8e93d508-5973-4d5d-8371-20366d3fb18d)
 
